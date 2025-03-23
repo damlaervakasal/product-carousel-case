@@ -23,12 +23,27 @@ This project includes a product carousel and a product detail page, entirely bui
 
 ### Single File
 - The project is developed within a single JavaScript file (`script.js`).
+  
 
 ## How to Run?
 
 ### Running in Chrome Developer Tools
 - The project is designed to run in the Chrome Developer Tools console.
 - You can start the project by pasting the contents of the (`script.js`) file into the console or by running the file directly in the console.
+
+
+This project is designed to run in the **Chrome Developer Tools** console.  
+You can start the project by pasting the contents of the `script.js` file into the console or running the file directly.
+
+If you encounter any issues while running the project through Chrome Developer Tools, you can try running it locally:
+
+### Alternative: Run Locally with index.html
+
+- **Download or clone the repository.**  
+- **Open the `index.html` file in your browser.**  
+- The product carousel and detail page will be displayed.  
+- If the first method doesn't work, try running the code through `index.html`.  
+
 
 ## Project Structure
 
