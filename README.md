@@ -49,3 +49,16 @@ You can watch a demo of the project in action at the link below. The video shows
 📌 **[Watch Demo](https://www.loom.com/share/e909a44ab601490e85c2d1fa30e293da?sid=bd6d7cdd-7b99-43a3-97bd-efc9a0282d48)**
 
 
+## Screenshots
+
+The following images showcase the product carousel and the product detail page:
+
+### Product Carousel
+![Product Carousel](https://github.com/damlaervakasal/product-carousel-case/blob/main/assets/homepage.jpg)
+
+### Product Detail Page
+![Product Detail Page](https://github.com/damlaervakasal/product-carousel-case/blob/main/assets/product_detail.jpg)
+
+The images are stored in the `assets` folder of this repository.
+
+
